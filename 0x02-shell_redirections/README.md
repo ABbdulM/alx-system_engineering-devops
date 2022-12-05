@@ -1,1 +1,1 @@
-16-whatsnext script
+17-hidethisword script
