@@ -1,1 +1,1 @@
-18-letteronly script
+19-AZ script
