@@ -1,1 +1,1 @@
-15-countthatword script
+18-letteronly script
