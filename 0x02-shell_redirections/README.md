@@ -1,1 +1,1 @@
-18-letteronly script
+17-hidethisword script
