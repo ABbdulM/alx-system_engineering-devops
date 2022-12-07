@@ -1,1 +1,1 @@
-7-file script
+11-directories script
