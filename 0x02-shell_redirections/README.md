@@ -1,1 +1,1 @@
-17-hidethisword script
+7-file script
