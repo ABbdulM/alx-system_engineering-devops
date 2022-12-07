@@ -1,1 +1,1 @@
-11-directories script
+17-hidethisword script
